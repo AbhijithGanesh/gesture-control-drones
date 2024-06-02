@@ -1,0 +1,10 @@
+mav.parm
+terrain
+test
+eeprom.bin
+logs
+log
+mav.tlog.raw
+mav.tlog
+build/
+install/
